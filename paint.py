@@ -1,6 +1,4 @@
 from tkinter import *
-import color
-import PIL
 
 
 
